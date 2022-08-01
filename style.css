@@ -15,7 +15,7 @@ p{
 img{text-align: center;}
 h2{text-align: center;}
 body {
-  background-image: url("file:///tmp/guest-84q93l/Downloads/istockphoto-1225495890-612x612.jpg")
+  background-image: url("file:///tmp/guest-44tf35/Downloads/istockphoto-1225495890-612x612%20(1).jpg")
 }
 img{text-align: center;
 }
@@ -26,4 +26,8 @@ div{
     margin: 0 auto;
     width: 50%; /* Valor da Largura */
 }
-div{background-image: image();}
+h2 {font-size: 30px}
+strong{font-size: 25px}
+p{margin: auto;}
+p{font-family: Sans-serif, Times, serif;
+}
