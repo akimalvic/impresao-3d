@@ -19,8 +19,8 @@ body {
 }
 img{text-align: center;
 }
-p{font-size: 20px}
-div{font-size: 30px}
+p{font-size: 22px}
+div{font-size: 80px}
 h2 {font-size: 25px}
 div{
     margin: 0 auto;
@@ -31,3 +31,6 @@ strong{font-size: 25px}
 p{margin: auto;}
 p{font-family: Sans-serif, Times, serif;
 }
+div{font-family:monospaceSerif , Times, serif;
+}
+{font-family: }
