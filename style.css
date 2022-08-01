@@ -1,4 +1,24 @@
-h1{text-align:center;}
-p{text-align: center;}
+div {
+  width: 500px;
+  border: 15px solid lightblue;
+  padding: 50px;
+  margin: 20px;
+}
+h1{
+  text-align:center;
+
+ }
+p{
+  text-align: center;
+}
 img{text-align: center;}
 h2{text-align: center;}
+body {
+  background-image: url("file:///tmp/guest-4hhm5w/Downloads/images.jpeg")
+}
+img{text-align: center;
+}
+p{font-size: 20px}
+div{font-size: 30px}
+h2 {font-size: 25px}
+div{text-align: center;}
