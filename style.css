@@ -3,6 +3,7 @@ div {
   border: 15px solid lightblue;
   padding: 50px;
   margin: 20px;
+  display: flex; justify-content: center;
 }
 h1{
   text-align:center;
@@ -14,11 +15,15 @@ p{
 img{text-align: center;}
 h2{text-align: center;}
 body {
-  background-image: url("file:///tmp/guest-4hhm5w/Downloads/images.jpeg")
+  background-image: url("file:///tmp/guest-84q93l/Downloads/istockphoto-1225495890-612x612.jpg")
 }
 img{text-align: center;
 }
 p{font-size: 20px}
 div{font-size: 30px}
 h2 {font-size: 25px}
-div{text-align: center;}
+div{
+    margin: 0 auto;
+    width: 50%; /* Valor da Largura */
+}
+div{background-image: image();}
