@@ -1,0 +1,37 @@
+div {
+  width: 500px;
+  border: 15px solid lightblue;
+  padding: 50px;
+  margin: 20px;
+  display: flex; justify-content: center;
+}
+h1{
+  text-align:center;
+
+ }
+p{
+  text-align: center;
+}
+img{text-align: center;}
+h2{text-align: center;}
+body {
+  background-image: url("file:///tmp/guest-okxhbg/Downloads/istockphoto-1225495890-612x612.jpg")
+}
+img{text-align: center;
+}
+p{font-size: 22px}
+div{font-size: 80px}
+h2 {font-size: 25px}
+div{
+    margin: 0 auto;
+    width: 50%; /* Valor da Largura */
+}
+h2 {font-size: 30px}
+strong{font-size: 25px}
+p{margin: auto;}
+p{font-family: Sans-serif, Times, serif;
+}
+div{font-family:monospaceSerif , Times, serif;
+}
+{font-family: }
+div1{font-size: 5px}
